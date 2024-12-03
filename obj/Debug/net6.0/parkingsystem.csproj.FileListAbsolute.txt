@@ -1,0 +1,15 @@
+D:\Enigma\New folder\parkingsystem\bin\Debug\net6.0\parkingsystem.exe
+D:\Enigma\New folder\parkingsystem\bin\Debug\net6.0\parkingsystem.deps.json
+D:\Enigma\New folder\parkingsystem\bin\Debug\net6.0\parkingsystem.runtimeconfig.json
+D:\Enigma\New folder\parkingsystem\bin\Debug\net6.0\parkingsystem.dll
+D:\Enigma\New folder\parkingsystem\bin\Debug\net6.0\parkingsystem.pdb
+D:\Enigma\New folder\parkingsystem\obj\Debug\net6.0\parkingsystem.csproj.AssemblyReference.cache
+D:\Enigma\New folder\parkingsystem\obj\Debug\net6.0\parkingsystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Enigma\New folder\parkingsystem\obj\Debug\net6.0\parkingsystem.AssemblyInfoInputs.cache
+D:\Enigma\New folder\parkingsystem\obj\Debug\net6.0\parkingsystem.AssemblyInfo.cs
+D:\Enigma\New folder\parkingsystem\obj\Debug\net6.0\parkingsystem.csproj.CoreCompileInputs.cache
+D:\Enigma\New folder\parkingsystem\obj\Debug\net6.0\parkingsystem.dll
+D:\Enigma\New folder\parkingsystem\obj\Debug\net6.0\refint\parkingsystem.dll
+D:\Enigma\New folder\parkingsystem\obj\Debug\net6.0\parkingsystem.pdb
+D:\Enigma\New folder\parkingsystem\obj\Debug\net6.0\parkingsystem.genruntimeconfig.cache
+D:\Enigma\New folder\parkingsystem\obj\Debug\net6.0\ref\parkingsystem.dll
